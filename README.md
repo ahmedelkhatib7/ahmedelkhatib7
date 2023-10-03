@@ -22,7 +22,7 @@ I am interested in the following areas
 
 ## 🐙 Skills
 
-![CI/CD-Github Actions](https://img.shields.io/badge/CI/CD-GitHub-Actions-informational?style=flat&logo=Github&logoColor=white&color=4AB197)
+![CI/CD-Github Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=Github&logoColor=white&color=4AB197)
 ![DevOps-Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![Azure-Cloud](https://img.shields.io/badge/Azure-cloud-informational?style=flat&logo=Azure&logoColor=white&color=4AB197)
 
